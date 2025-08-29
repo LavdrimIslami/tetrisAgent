@@ -1,0 +1,7 @@
+opencv-python
+gymnasium
+tetris-gymnasium
+torch
+torchvision
+pillow
+numpy
